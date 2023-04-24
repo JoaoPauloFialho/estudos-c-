@@ -59,4 +59,6 @@ int main()
         cout << fixed;
         cout << "Sua pontuacao foi " << pontuacao;
     }
+
+    return 1;
 }
