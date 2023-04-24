@@ -1,0 +1,18 @@
+# Arquivos de compilação
+*.o
+*.out
+*.obj
+
+# Arquivos de depuração
+*.dSYM/
+*.su
+
+# Arquivos gerados pelo CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Arquivos gerados pelo VSCode
+.vscode/
